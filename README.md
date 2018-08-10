@@ -1,2 +1,2 @@
 # OriginAviation
-重写天池航空算法大赛的测评程序: https://tianchi.aliyun.com/competition/information.htm?spm=5176.11165434.5678.2.588c6dd0lIjeHY&amp;raceId=231609
+重写天池航空算法大赛的测评程序，排名6/1644，队伍名称minion rush，链接地址-https://tianchi.aliyun.com/competition/rankingList.htm?spm=5176.100067.5678.4.4aaf3db8xKIi0R&raceId=231609
